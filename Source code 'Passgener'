@@ -65,7 +65,7 @@ window.title("Генератор паролей DCS comp.")  # Название
 window.geometry('350x350')  # Размер
 window.resizable(width=False, height=False)  # Масштабирование не используется
 window.configure(bg="#2e2e2e")  # Цвет
-window.iconbitmap('icon/password.ico')  # Иконка
+# window.iconbitmap('icon/password.ico')  # Иконка
 
 # Наборы символов
 numbers_main = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
